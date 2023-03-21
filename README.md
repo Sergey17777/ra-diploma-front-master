@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/f5wov44wmc9mw8to/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ra-diploma-front/branch/master)
-
 
 
 ---
